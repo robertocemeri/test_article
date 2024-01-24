@@ -1,0 +1,27 @@
+.sign-up-container{
+    height:100vh;
+    background-color: #0f044c;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size: 16px;
+    flex-direction: column;
+}
+
+.box{
+    width:350px;
+    font-size:16px;
+    padding:40px 40px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 30px;
+    color:#0f044c;
+}
+
+.user{
+    margin-top: 50px;
+}
+
+.text-center {
+    text-align: -webkit-center;
+}
